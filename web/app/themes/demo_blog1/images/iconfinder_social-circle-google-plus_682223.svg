@@ -1,0 +1,16 @@
+<svg id="iconfinder_social-circle-google-plus_682223" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88.529 92.147">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="44.264" cy="46.074" rx="44.264" ry="46.074"/>
+  <g id="Group_11" data-name="Group 11" transform="translate(6.282 12.199)">
+    <g id="Group_10" data-name="Group 10">
+      <path id="Path_10" data-name="Path 10" class="cls-1" d="M49.424,97.875C30.406,97.875,14.933,82.682,14.933,64S30.406,30.126,49.424,30.126a34.84,34.84,0,0,1,22.624,8.309l-8.771,9.9a21.332,21.332,0,0,0-13.853-5.086,20.754,20.754,0,1,0,0,41.5c9.858,0,16.311-4.723,18.407-13.2H49.587V58.432H81.934v6.562C81.934,84.659,68.869,97.875,49.424,97.875Z" transform="translate(-14.933 -30.126)"/>
+    </g>
+    <path id="Path_11" data-name="Path 11" class="cls-1" d="M117.934,58.438h-10v-10h-8v10h-10v8h10v10h8v-10h10Z" transform="translate(-35.754 -30.126)"/>
+  </g>
+</svg>
